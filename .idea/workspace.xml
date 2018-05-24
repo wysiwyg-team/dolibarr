@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52ad022b-631d-4bce-8c6d-e9594a2b60b9" name="Default" comment="" />
+    <list default="true" id="52ad022b-631d-4bce-8c6d-e9594a2b60b9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/documents/dolibarr.log" beforeDir="false" afterPath="$PROJECT_DIR$/documents/dolibarr.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htdocs/accountancy/bookkeeping/balance.php" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/accountancy/bookkeeping/balance.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htdocs/accountancy/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/accountancy/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htdocs/local/xml/form.php" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/local/xml/form.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htdocs/local/xml/tickets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/local/xml/tickets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htdocs/local/xmlResult/tickets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/htdocs/local/xmlResult/tickets.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,51 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="master.inc.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htdocs/master.inc.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="679">
-              <caret line="203" column="12" selection-start-line="203" selection-start-column="12" selection-end-line="203" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="balance.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htdocs/accountancy/bookkeeping/balance.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="29" column="64" lean-forward="true" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
-              <folding>
-                <element signature="e#4#10#1" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
-                <element signature="e#4#10#1" expanded="true" />
-                <element signature="e#4#10#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mymenu.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/htdocs/core/menus/standard/mymenu.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="148" column="28" selection-start-line="148" selection-start-column="28" selection-end-line="148" selection-end-column="28" />
-              <folding>
-                <element signature="n#__construct#0;n#MenuManager#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="eldy_menu.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/htdocs/core/menus/standard/eldy_menu.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="106" column="32" lean-forward="true" selection-end-line="327" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/htdocs/admin/index.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -74,8 +37,8 @@
       <file leaf-file-name="user.class.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/htdocs/user/class/user.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10676">
-              <caret line="2123" selection-start-line="2123" selection-end-line="2123" />
+            <state relative-caret-position="306">
+              <caret line="2284" column="5" selection-start-line="2284" selection-start-column="5" selection-end-line="2284" selection-end-column="5" />
               <folding>
                 <element signature="e#15219#18201#0#PHP" />
                 <element signature="e#18682#21368#0#PHP" />
@@ -121,6 +84,37 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="form.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/htdocs/local/xml/form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="68" selection-start-line="68" selection-end-line="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customImport.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/htdocs/local/xml/customImport.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="253" column="21" selection-start-line="253" selection-start-column="21" selection-end-line="253" selection-end-column="21" />
+              <folding>
+                <element signature="e#198#207#0#PHP" />
+                <element signature="e#57#1717#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tickets.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/htdocs/local/xml/tickets.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -129,7 +123,6 @@
       <find>logged</find>
       <find>login_block</find>
       <find>side-nav-vert</find>
-      <find>setup</find>
       <find>login</find>
       <find>fk_user_author</find>
       <find>4</find>
@@ -140,6 +133,11 @@
       <find>vmenu</find>
       <find>liste</find>
       <find>showmenu</find>
+      <find>echo</find>
+      <find>General</find>
+      <find>setup</find>
+      <find>menu</find>
+      <find>accountancy_admin</find>
     </findStrings>
     <replaceStrings>
       <replace>sta</replace>
@@ -150,11 +148,15 @@
       <replace>$stmt2</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/htdocs/local/customImport.php" root0="SKIP_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/htdocs/local/index.php" root0="SKIP_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/htdocs/master.inc.php" root0="SKIP_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/htdocs/compta/facture/card.php" root0="SKIP_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/htdocs/local/xml/customImport.php" root0="SKIP_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -167,12 +169,20 @@
         <option value="$PROJECT_DIR$/htdocs/local/import.php" />
         <option value="$PROJECT_DIR$/htdocs/admin/index.php" />
         <option value="$PROJECT_DIR$/htdocs/local/xml/php_xml.php" />
-        <option value="$PROJECT_DIR$/htdocs/local/xmlResult/tickets.xml" />
         <option value="$PROJECT_DIR$/htdocs/local/customFunctions.php" />
         <option value="$PROJECT_DIR$/htdocs/local/index.php" />
         <option value="$PROJECT_DIR$/htdocs/local/customImport.php" />
         <option value="$PROJECT_DIR$/htdocs/core/menus/standard/eldy.lib.php" />
         <option value="$PROJECT_DIR$/htdocs/core/menus/standard/mymenu.php" />
+        <option value="$PROJECT_DIR$/htdocs/accountancy/bookkeeping/balance.php" />
+        <option value="$PROJECT_DIR$/htdocs/local/custom/customApi.php" />
+        <option value="$PROJECT_DIR$/htdocs/local/xml/tickets.xml" />
+        <option value="$PROJECT_DIR$/htdocs/accountancy/index.php" />
+        <option value="$PROJECT_DIR$/htdocs/local/xmlResult/tickets.xml" />
+        <option value="$PROJECT_DIR$/htdocs/local/custom/customImport.php" />
+        <option value="$PROJECT_DIR$/htdocs/local/xml/form.php" />
+        <option value="$PROJECT_DIR$/htdocs/local/json/dateFilter.php" />
+        <option value="$PROJECT_DIR$/htdocs/local/xml/customImport.php" />
       </list>
     </option>
   </component>
@@ -225,11 +235,13 @@
     <option name="width" value="1616" />
     <option name="height" value="876" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -246,50 +258,44 @@
               <item name="dolibarr" type="b2602c69:ProjectViewProjectNode" />
               <item name="dolibarr" type="462c0819:PsiDirectoryNode" />
               <item name="htdocs" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dolibarr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dolibarr" type="462c0819:PsiDirectoryNode" />
-              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="menus" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dolibarr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dolibarr" type="462c0819:PsiDirectoryNode" />
-              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="menus" type="462c0819:PsiDirectoryNode" />
-              <item name="standard" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dolibarr" type="b2602c69:ProjectViewProjectNode" />
               <item name="dolibarr" type="462c0819:PsiDirectoryNode" />
               <item name="htdocs" type="462c0819:PsiDirectoryNode" />
               <item name="local" type="462c0819:PsiDirectoryNode" />
+              <item name="json" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dolibarr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dolibarr" type="462c0819:PsiDirectoryNode" />
+              <item name="htdocs" type="462c0819:PsiDirectoryNode" />
+              <item name="local" type="462c0819:PsiDirectoryNode" />
+              <item name="xml" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/htdocs/local/customImport.php" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../glpi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../apiGlpi" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\dolibarr\htdocs\local\json" />
+      <recent name="C:\xampp\htdocs\dolibarr\htdocs\local\xml" />
+      <recent name="C:\xampp\htdocs\dolibarr\htdocs\local\custom" />
       <recent name="C:\xampp\htdocs\dolibarr\htdocs\local" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\dolibarr\htdocs\local" />
-      <recent name="C:\xampp\htdocs\dolibarr\htdocs\local\xml" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -330,12 +336,13 @@
       <workItem from="1526870954876" duration="12000" />
       <workItem from="1526881619758" duration="10683000" />
       <workItem from="1526893240819" duration="14785000" />
-      <workItem from="1527058796102" duration="2676000" />
+      <workItem from="1527058796102" duration="16797000" />
+      <workItem from="1527138296473" duration="5340000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115009000" />
+    <option name="totallyTimeSpent" value="134470000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1616" height="876" extended-state="6" />
@@ -344,14 +351,13 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.22222222" />
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17352185" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17544988" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -361,6 +367,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -382,175 +389,10 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="6" />
+      <option name="time" value="7" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/htdocs/admin/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="64" column="39" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/user/class/user.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36091">
-          <caret line="2123" selection-start-line="2123" selection-end-line="2123" />
-          <folding>
-            <element signature="e#15219#18201#0#PHP" />
-            <element signature="e#18682#21368#0#PHP" />
-            <element signature="e#21465#21653#0#PHP" />
-            <element signature="e#21903#26570#0#PHP" />
-            <element signature="e#26720#27432#0#PHP" />
-            <element signature="e#27702#28509#0#PHP" />
-            <element signature="e#28589#30361#0#PHP" />
-            <element signature="e#30601#33936#0#PHP" />
-            <element signature="e#34305#36129#0#PHP" />
-            <element signature="e#36362#37970#0#PHP" />
-            <element signature="e#38111#38911#0#PHP" />
-            <element signature="e#39510#50320#0#PHP" />
-            <element signature="e#50509#51213#0#PHP" />
-            <element signature="e#51737#54962#0#PHP" />
-            <element signature="e#55344#58378#0#PHP" />
-            <element signature="e#58655#59328#0#PHP" />
-            <element signature="e#59395#60322#0#PHP" />
-            <element signature="e#60532#61700#0#PHP" />
-            <element signature="e#61923#62955#0#PHP" />
-            <element signature="e#63271#63560#0#PHP" />
-            <element signature="e#64614#71149#0#PHP" />
-            <element signature="e#71368#71865#0#PHP" />
-            <element signature="e#72130#72214#0#PHP" />
-            <element signature="e#72511#73941#0#PHP" />
-            <element signature="e#74277#74625#0#PHP" />
-            <element signature="e#74783#79178#0#PHP" />
-            <element signature="e#79360#80278#0#PHP" />
-            <element signature="e#80388#81099#0#PHP" />
-            <element signature="e#81245#81751#0#PHP" />
-            <element signature="e#82008#82690#0#PHP" />
-            <element signature="e#82835#84000#0#PHP" />
-            <element signature="e#84145#84643#0#PHP" />
-            <element signature="e#84761#85357#0#PHP" />
-            <element signature="e#86000#89422#0#PHP" />
-            <element signature="e#89814#90433#0#PHP" />
-            <element signature="e#90850#92258#0#PHP" />
-            <element signature="e#92480#92679#0#PHP" />
-            <element signature="e#92810#93370#0#PHP" />
-            <element signature="e#93803#94353#0#PHP" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/local/customImport.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3264">
-          <caret line="197" column="43" lean-forward="true" selection-start-line="197" selection-start-column="43" selection-end-line="197" selection-end-column="43" />
-          <folding>
-            <element signature="e#6#89#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/master.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3043">
-          <caret line="203" column="12" selection-start-line="203" selection-start-column="12" selection-end-line="203" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/main.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="88" column="66" lean-forward="true" selection-start-line="88" selection-start-column="66" selection-end-line="88" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/admin/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="69" selection-start-line="69" selection-end-line="73" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/user/class/user.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10676">
-          <caret line="2123" selection-start-line="2123" selection-end-line="2123" />
-          <folding>
-            <element signature="e#15219#18201#0#PHP" />
-            <element signature="e#18682#21368#0#PHP" />
-            <element signature="e#21465#21653#0#PHP" />
-            <element signature="e#21903#26570#0#PHP" />
-            <element signature="e#26720#27432#0#PHP" />
-            <element signature="e#27702#28509#0#PHP" />
-            <element signature="e#28589#30361#0#PHP" />
-            <element signature="e#30601#33936#0#PHP" />
-            <element signature="e#34305#36129#0#PHP" />
-            <element signature="e#36362#37970#0#PHP" />
-            <element signature="e#38111#38911#0#PHP" />
-            <element signature="e#39510#50320#0#PHP" />
-            <element signature="e#50509#51213#0#PHP" />
-            <element signature="e#51737#54962#0#PHP" />
-            <element signature="e#55344#58378#0#PHP" />
-            <element signature="e#58655#59328#0#PHP" />
-            <element signature="e#59395#60322#0#PHP" />
-            <element signature="e#60532#61700#0#PHP" />
-            <element signature="e#61923#62955#0#PHP" />
-            <element signature="e#63271#63560#0#PHP" />
-            <element signature="e#64614#71149#0#PHP" />
-            <element signature="e#71368#71865#0#PHP" />
-            <element signature="e#72130#72214#0#PHP" />
-            <element signature="e#72511#73941#0#PHP" />
-            <element signature="e#74277#74625#0#PHP" />
-            <element signature="e#74783#79178#0#PHP" />
-            <element signature="e#79360#80278#0#PHP" />
-            <element signature="e#80388#81099#0#PHP" />
-            <element signature="e#81245#81751#0#PHP" />
-            <element signature="e#82008#82690#0#PHP" />
-            <element signature="e#82835#84000#0#PHP" />
-            <element signature="e#84145#84643#0#PHP" />
-            <element signature="e#84761#85357#0#PHP" />
-            <element signature="e#86000#89422#0#PHP" />
-            <element signature="e#89814#90433#0#PHP" />
-            <element signature="e#90850#92258#0#PHP" />
-            <element signature="e#92480#92679#0#PHP" />
-            <element signature="e#92810#93370#0#PHP" />
-            <element signature="e#93803#94353#0#PHP" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/don/tpl/linkedobjectblock.tpl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/local/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="24" column="38" lean-forward="true" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/local/customImport.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2839">
-          <caret line="172" column="57" lean-forward="true" selection-start-line="172" selection-start-column="57" selection-end-line="172" selection-end-column="57" />
-          <folding>
-            <element signature="e#6#89#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/local/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/htdocs/local/customImport.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2516">
@@ -800,26 +642,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/local/xml/form.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/local/xml/xmlResult.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/local/xml/config/db.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/local/xml/php_xml.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="679">
-          <caret line="68" column="43" selection-start-line="68" selection-start-column="43" selection-end-line="68" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
@@ -827,10 +649,163 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/accountancy/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/core/menus/standard/empty.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-969" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/core/menus/standard/eldy.lib.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-612" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/local/eldy_menu.php" />
+    <entry file="file://$PROJECT_DIR$/htdocs/core/menus/standard/mymenu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="153" column="9" lean-forward="true" selection-start-line="153" selection-start-column="9" selection-end-line="153" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/core/menus/standard/eldy_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="106" column="32" lean-forward="true" selection-end-line="327" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/master.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="679">
+          <caret line="203" column="12" selection-start-line="203" selection-start-column="12" selection-end-line="203" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/accountancy/bookkeeping/balance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="226" lean-forward="true" selection-end-line="305" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/local/custom/xmlResult.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="16" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/local/custom/customApi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="75" selection-start-line="75" selection-end-line="80" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/local/custom/php_xml.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/accountancy/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="65" column="30" lean-forward="true" selection-start-line="65" selection-start-column="30" selection-end-line="65" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/local/xml/config/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="36" lean-forward="true" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="4807" column="4" selection-start-line="4807" selection-start-column="4" selection-end-line="4807" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/local/xml/xmlResult.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/local/xmlResult/tickets.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/local/customImport.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#6#89#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/local/custom/customImport.php" />
+    <entry file="file://$PROJECT_DIR$/htdocs/local/custom/customFunctions.php" />
+    <entry file="file://$PROJECT_DIR$/htdocs/admin/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="64" column="39" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/local/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="25" column="62" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/local/xml/customFunctions.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/local/xml/php_xml.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="68" column="43" selection-start-line="68" selection-start-column="43" selection-end-line="68" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/local/customFunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1003">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="e#6#91#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/local/json/dateFilter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/htdocs/local/json/form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="71" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/htdocs/user/class/user.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10676">
-          <caret line="2123" selection-start-line="2123" selection-end-line="2123" />
+        <state relative-caret-position="306">
+          <caret line="2284" column="5" selection-start-line="2284" selection-start-column="5" selection-end-line="2284" selection-end-column="5" />
           <folding>
             <element signature="e#15219#18201#0#PHP" />
             <element signature="e#18682#21368#0#PHP" />
@@ -875,105 +850,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/admin/index.php">
+    <entry file="file://$PROJECT_DIR$/htdocs/local/xml/form.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="64" column="39" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
+        <state relative-caret-position="17">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/local/index.php">
+    <entry file="file://$PROJECT_DIR$/htdocs/local/xml/tickets.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        <state relative-caret-position="578">
+          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/accountancy/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/accountancy/index.php">
+    <entry file="file://$PROJECT_DIR$/htdocs/local/xml/customImport.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1732" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/local/customImport.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="245" column="59" lean-forward="true" selection-start-line="245" selection-start-column="59" selection-end-line="245" selection-end-column="59" />
+        <state relative-caret-position="578">
+          <caret line="253" column="21" selection-start-line="253" selection-start-column="21" selection-end-line="253" selection-end-column="21" />
           <folding>
-            <element signature="e#6#89#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/local/xmlResult/tickets.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/local/customFunctions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-          <folding>
-            <element signature="e#6#91#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/master.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="679">
-          <caret line="203" column="12" selection-start-line="203" selection-start-column="12" selection-end-line="203" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/core/menus/standard/empty.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-969" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/core/menus/standard/eldy.lib.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-612">
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/local/eldy_menu.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/accountancy/bookkeeping/balance.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="29" column="64" lean-forward="true" selection-start-line="29" selection-start-column="64" selection-end-line="29" selection-end-column="64" />
-          <folding>
-            <element signature="e#4#10#1" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
-            <element signature="e#4#10#1" expanded="true" />
-            <element signature="e#4#10#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/core/menus/standard/eldy_menu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="106" column="32" lean-forward="true" selection-end-line="327" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/htdocs/core/menus/standard/mymenu.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="148" column="28" selection-start-line="148" selection-start-column="28" selection-end-line="148" selection-end-column="28" />
-          <folding>
-            <element signature="n#__construct#0;n#MenuManager#0;n#!!top" />
+            <element signature="e#198#207#0#PHP" />
+            <element signature="e#57#1717#0" />
           </folding>
         </state>
       </provider>

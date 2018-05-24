@@ -115,7 +115,6 @@ if (! empty($search_accountancy_code_end)) {
 	$options .= '&amp;search_accountancy_code_end=' . $search_accountancy_code_end;
 }
 
-
 /*
  * Action
  */
